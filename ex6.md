@@ -1,0 +1,1 @@
+This is a sentence for exercise 6.
